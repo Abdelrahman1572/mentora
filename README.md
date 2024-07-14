@@ -2,17 +2,30 @@
 Mentora is an innovative application designed to connect technology students with expert mentors to foster meaningful growth in their technological careers. The platform uses advanced algorithms to match mentees with mentors based on their career goals and technological interests, ensuring a personalized and effective mentorship experience. With integrated communication channels like chat, video calls, and community forums, Mentora facilitates seamless mentor-mentee interactions. Additionally, it offers diverse learning methods including coding exercises, project collaborations, and access to technology-focused resources to accelerate knowledge acquisition. TechMentor aims to create a focused, tech-centric environment that empowers students and drives rapid advancement in their chosen technology fields.
 
 ## ScreenShots
-|<img src="https://github.com/user-attachments/assets/8c9dd537-23cf-404d-8071-580b4d1c5249" width="250">|<img src="https://github.com/user-attachments/assets/32227919-2c74-454c-8a06-dc50d7aa7558" width="250">|
-|<img src="https://github.com/user-attachments/assets/78c6bb80-4c0d-4ad1-ba62-59f0549c2f0f" width="250">|<img src="https://github.com/user-attachments/assets/0ef433d1-7a3f-4c9e-b8c5-e47fc9db4097" width="250">|
-|<img src="https://github.com/user-attachments/assets/dab6d646-81a5-4059-8a71-588d7dfda513" width="250">|<img src="https://github.com/user-attachments/assets/a41a9fb0-76f4-4f4a-b86b-565fa2f2bf18" width="250">|
-|<img src="https://github.com/user-attachments/assets/9e68aa53-fb34-4e2b-b7e2-c60ec4f6939d" width="250">|<img src="https://github.com/user-attachments/assets/aee08116-8098-430f-8901-3497de5d1a24" width="250">|
-|<img src="https://github.com/user-attachments/assets/ff343228-6d11-4c10-86a7-d1365509ec76" width="250">|<img src="https://github.com/user-attachments/assets/3502dd00-ab5f-4adf-873d-02ca0afb26b0" width="250">|
-|<img src="https://github.com/user-attachments/assets/d6f5483f-0f88-451c-ba39-4c9a68ac2a9c" width="250">|<img src="https://github.com/user-attachments/assets/a905ce8a-02e7-4131-a386-365a3c13864a" width="250">|
-|<img src="https://github.com/user-attachments/assets/089a43d1-27f6-4c81-9de9-ee600944081c" width="250">|<img src="https://github.com/user-attachments/assets/7efb374c-a6cc-4f7e-8cf4-4257b37085e3" width="250">|
-|<img src="https://github.com/user-attachments/assets/16ef96a7-0ec4-4749-b845-511eac3e915f" width="250">|<img src="https://github.com/user-attachments/assets/d3b42b3f-6ef4-4440-a692-edef8ada50d5" width="250">|
-|<img src="https://github.com/user-attachments/assets/46c8d8ce-5a4a-4165-9c4f-24af3b8de878" width="250">|<img src="https://github.com/user-attachments/assets/36e0ef84-9d3c-4e01-a3b5-b3033be8ab5f" width="250">|
-|<img src="https://github.com/user-attachments/assets/e114a6d2-b4e6-4b6b-810e-eb38f86ef575" width="250">|<img src="https://github.com/user-attachments/assets/d22b7a02-09e3-4161-9e54-08f3dab9d527" width="250">|
-|<img src="https://github.com/user-attachments/assets/908d09f1-0ef6-4c5e-8c00-385150c3dd5e" width="250">|<img src="https://github.com/user-attachments/assets/486fb04f-1d58-43a6-ba6c-e9c0c2b1e875" width="250">|
-|<img src="https://github.com/user-attachments/assets/6b76a905-a435-4acc-89d7-cd7fa2d534f7" width="250">|<img src="https://github.com/user-attachments/assets/19709561-6585-4a64-b928-a6bca66f5027" width="250">|
-|<img src="https://github.com/user-attachments/assets/ef841bc2-e39c-4fe6-8a4b-14d514ff8f21" width="250">|<img src="https://github.com/user-attachments/assets/0946fedd-dec6-46c7-b3c9-8d156110e0be" width="250">|
-|<img src="https://github.com/user-attachments/assets/8a45b7eb-0c5b-47a4-a8c4-68710f6f586d" width="250">|
+|<img src="https://github.com/user-attachments/assets/24354841-6788-41e3-911e-07c0ee697dd4" width="250">|
+<img src="https://github.com/user-attachments/assets/561ce2e8-de69-4730-bf5c-fc9fd654a0b0" width="250">|
+|<img src="https://github.com/user-attachments/assets/d3b4c07f-fd38-4c84-b074-6e84d268a3b4" width="250">|
+<img src="https://github.com/user-attachments/assets/2fb5b28a-41de-4548-bc4e-71b1041d986e" width="250">|
+|<img src="https://github.com/user-attachments/assets/8be654b7-c6c0-4c3d-898f-def9ec4f3779" width="250">|
+<img src="https://github.com/user-attachments/assets/904bc941-5575-46ea-8ff0-996dca7104f0" width="250">|
+<img src="https://github.com/user-attachments/assets/3253ca5a-4fa2-4331-b234-5f8c4a2f21f7" width="250">|
+|<img src="https://github.com/user-attachments/assets/93692790-2f4c-4ced-99bd-1a13555db540" width="250">|
+<img src="https://github.com/user-attachments/assets/669d2acc-e941-44af-a15f-f74c921f457c" width="250">|
+|<img src="https://github.com/user-attachments/assets/fd661a10-95ee-4ee4-8b1c-48e9b91a1f7f" width="250">|
+<img src="https://github.com/user-attachments/assets/c528ee4a-640d-44f2-978b-e8bc89b71fb9" width="250">|
+|<img src="https://github.com/user-attachments/assets/bc2a228b-ece2-4e75-9b3d-7932fbfad743" width="250">|
+|<img src="https://github.com/user-attachments/assets/2c8e8970-9d45-4d09-b56b-e49df483c442" width="250">|
+<img src="https://github.com/user-attachments/assets/fd01a51e-d612-400f-a589-61c65d07c2d1" width="250">|
+<img src="https://github.com/user-attachments/assets/23d88f09-789d-48db-a63a-a5b57fa4cdc4" width="250">|
+|<img src="https://github.com/user-attachments/assets/a487d39a-c329-449f-92c9-5960413da449" width="250">|
+<img src="https://github.com/user-attachments/assets/6622e7c1-3167-4543-8414-659504738257" width="250">|
+<img src="https://github.com/user-attachments/assets/d1f03d26-9a13-4dc7-8e08-b70586b918b6" width="250">|
+|<img src="https://github.com/user-attachments/assets/c5d6d3fe-72d1-4255-b8df-4f07a8487f6c" width="250">|
+<img src="https://github.com/user-attachments/assets/329f9097-8233-4e49-9f4a-087106428f3d" width="250">|
+|<img src="https://github.com/user-attachments/assets/bbdf256f-57ee-4e25-ad27-14f9f6997237" width="250">|
+<img src="https://github.com/user-attachments/assets/8901d1f4-342b-4566-b152-956cec3b9854" width="250">|
+|<img src="https://github.com/user-attachments/assets/d48d89cd-533e-490a-9e3f-e4cff04a0e90" width="250">|
+<img src="https://github.com/user-attachments/assets/8f1aa31d-5d8f-48be-ab9b-4bcdff24ad88" width="250">|
+|<img src="https://github.com/user-attachments/assets/4da427c7-5a43-436f-a68a-8f2904b47d12" width="250">|
+<img src="https://github.com/user-attachments/assets/7b9eca6c-8cc4-4f1e-bba5-ad4a6a6f061d" width="250">|
+|<img src="https://github.com/user-attachments/assets/09e2682a-7c2b-4dda-8391-d355cf8c9f54" width="250">|
