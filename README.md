@@ -1,16 +1,18 @@
-# mentora
+## mentora
+Mentora is an innovative application designed to connect technology students with expert mentors to foster meaningful growth in their technological careers. The platform uses advanced algorithms to match mentees with mentors based on their career goals and technological interests, ensuring a personalized and effective mentorship experience. With integrated communication channels like chat, video calls, and community forums, Mentora facilitates seamless mentor-mentee interactions. Additionally, it offers diverse learning methods including coding exercises, project collaborations, and access to technology-focused resources to accelerate knowledge acquisition. TechMentor aims to create a focused, tech-centric environment that empowers students and drives rapid advancement in their chosen technology fields.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+|<img src="https://github.com/user-attachments/assets/8c9dd537-23cf-404d-8071-580b4d1c5249" width="250">|<img src="https://github.com/user-attachments/assets/32227919-2c74-454c-8a06-dc50d7aa7558" width="250">|
+|<img src="https://github.com/user-attachments/assets/78c6bb80-4c0d-4ad1-ba62-59f0549c2f0f" width="250">|<img src="https://github.com/user-attachments/assets/0ef433d1-7a3f-4c9e-b8c5-e47fc9db4097" width="250">|
+|<img src="https://github.com/user-attachments/assets/dab6d646-81a5-4059-8a71-588d7dfda513" width="250">|<img src="https://github.com/user-attachments/assets/a41a9fb0-76f4-4f4a-b86b-565fa2f2bf18" width="250">|
+|<img src="https://github.com/user-attachments/assets/9e68aa53-fb34-4e2b-b7e2-c60ec4f6939d" width="250">|<img src="https://github.com/user-attachments/assets/aee08116-8098-430f-8901-3497de5d1a24" width="250">|
+|<img src="https://github.com/user-attachments/assets/ff343228-6d11-4c10-86a7-d1365509ec76" width="250">|<img src="https://github.com/user-attachments/assets/3502dd00-ab5f-4adf-873d-02ca0afb26b0" width="250">|
+|<img src="https://github.com/user-attachments/assets/d6f5483f-0f88-451c-ba39-4c9a68ac2a9c" width="250">|<img src="https://github.com/user-attachments/assets/a905ce8a-02e7-4131-a386-365a3c13864a" width="250">|
+|<img src="https://github.com/user-attachments/assets/089a43d1-27f6-4c81-9de9-ee600944081c" width="250">|<img src="https://github.com/user-attachments/assets/7efb374c-a6cc-4f7e-8cf4-4257b37085e3" width="250">|
+|<img src="https://github.com/user-attachments/assets/16ef96a7-0ec4-4749-b845-511eac3e915f" width="250">|<img src="https://github.com/user-attachments/assets/d3b42b3f-6ef4-4440-a692-edef8ada50d5" width="250">|
+|<img src="https://github.com/user-attachments/assets/46c8d8ce-5a4a-4165-9c4f-24af3b8de878" width="250">|<img src="https://github.com/user-attachments/assets/36e0ef84-9d3c-4e01-a3b5-b3033be8ab5f" width="250">|
+|<img src="https://github.com/user-attachments/assets/e114a6d2-b4e6-4b6b-810e-eb38f86ef575" width="250">|<img src="https://github.com/user-attachments/assets/d22b7a02-09e3-4161-9e54-08f3dab9d527" width="250">|
+|<img src="https://github.com/user-attachments/assets/908d09f1-0ef6-4c5e-8c00-385150c3dd5e" width="250">|<img src="https://github.com/user-attachments/assets/486fb04f-1d58-43a6-ba6c-e9c0c2b1e875" width="250">|
+|<img src="https://github.com/user-attachments/assets/6b76a905-a435-4acc-89d7-cd7fa2d534f7" width="250">|<img src="https://github.com/user-attachments/assets/19709561-6585-4a64-b928-a6bca66f5027" width="250">|
+|<img src="https://github.com/user-attachments/assets/ef841bc2-e39c-4fe6-8a4b-14d514ff8f21" width="250">|<img src="https://github.com/user-attachments/assets/0946fedd-dec6-46c7-b3c9-8d156110e0be" width="250">|
+|<img src="https://github.com/user-attachments/assets/8a45b7eb-0c5b-47a4-a8c4-68710f6f586d" width="250">|
